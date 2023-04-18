@@ -1,2 +1,0 @@
-info
-remove_by_id 6
